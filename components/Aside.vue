@@ -43,7 +43,7 @@
         <NuxtLink
           to="/categories"
           exact-active-class="bg-[#D4D8DF]"
-          class="hover:bg-[#D4D8DF] flex py-1 leading-6 text-sm font-medium pl-[67px] cursor-pointer"
+          class="hover:bg-[#D4D8DF] flex py-1.5 leading-6 text-sm font-medium pl-[67px] cursor-pointer"
         >
           Categories
         </NuxtLink>
