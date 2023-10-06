@@ -32,6 +32,7 @@
           {{ tab.label }}
         </button>
       </div>
+      
       <!-- Display active tab content -->
       <div class="max-w-[502px] w-full">
     

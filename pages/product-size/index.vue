@@ -6,8 +6,7 @@
           >
             Product Size 
           </p>
-        </div>
-        
-<h1 class='w-full  '>Hello Product Size</h1>
+        </div>  
+<DataTable />
         </div>
 </template>
