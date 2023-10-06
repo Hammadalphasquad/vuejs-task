@@ -8,20 +8,20 @@
       </p>
     </div>
 
-    <div class="pl-[67px] pt-[37px] max-w-[452px] w-full">
+    <div class="pl-[67px] pt-[37px] max-w-[835px] w-full">
       <p class="text-base font-medium text-gray-800 leading-4 mb-6">
         Product type per category
       </p>
 
       <div class='flex items-start border border-[#D1D5DB]'>
-      <div class="flex flex-col">
+      <div class="flex flex-col max-w-[178px] w-full">
        
         <button
           v-for="(tab, index) in tabs"
           :key="index"
           @click="activateTab(index)"
           :class="[
-            'py-2 px-4 text-gray-600',
+            'py-2 px-4 text-left text-gray-600',
             'hover:bg-[#D4D8DF] text-sm font-medium',
             activeTab === index
               ? 'bg-[#D4D8DF] '
@@ -33,7 +33,7 @@
         </button>
       </div>
       <!-- Display active tab content -->
-      <div class="">
+      <div class="max-w-[502px] w-full">
     
         <div v-if="activeTab === 0">
           <slot name="tab1">

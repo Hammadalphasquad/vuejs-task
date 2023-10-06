@@ -14,12 +14,12 @@
 
   <!-- Content -->
   <div class="gap-4 w-full ">
-    <div class="pl-[67px] pt-[37px] max-w-[452px] w-full">
+    <div class="pl-[67px] pt-[37px] max-w-[502px] w-full">
       <p class="text-base font-medium text-gray-800 leading-4 mb-6">
         Categories
       </p>
       <!-- Inputs -->
-      <div class="w-full flex flex-col gap-8">
+      <div class="w-full flex flex-col gap-8 ">
         <!-- Existing input -->
         <div
           class="flex items-center gap-3"

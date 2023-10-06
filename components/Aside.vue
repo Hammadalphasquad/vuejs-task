@@ -41,10 +41,7 @@
       Attributes
         
       </NuxtLink>
-    
     </ul>
-      
-      
     </div>
   </div>
 </template>
