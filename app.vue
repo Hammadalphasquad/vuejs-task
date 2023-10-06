@@ -6,7 +6,6 @@
     <Aside/>
     <NuxtPage />
   </div>
-  
   </NuxtLayout>
   </div>
 </template>
