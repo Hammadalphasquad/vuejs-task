@@ -22,9 +22,9 @@
           @click="activateTab(index)"
           :class="[
             'py-2 px-4 text-left text-gray-600',
-            'hover:bg-[#D4D8DF] text-sm font-medium',
+            'hover:bg-[#D9D9D9] text-sm font-medium',
             activeTab === index
-              ? 'bg-[#D4D8DF] '
+              ? 'bg-[#D9D9D9] '
               : 'bg-white ',
           ]"
           

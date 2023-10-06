@@ -10,14 +10,14 @@
       <table class="min-w-full bg-white font-[sans-serif]">
         <thead class="bg-[#D9D9D9] whitespace-nowrap">
           <tr>
-            <th class="px-6 py-6 text-left text-base font-bold text-slate-600 leading-4">
+            <th class="px-6 py-[22px] text-left text-base font-bold text-slate-600 leading-4">
               ID
             </th>
-            <th class="px-6 py-6 text-left text-base font-bold text-slate-600 leading-4">
+            <th class="px-6 py-[22px] text-left text-base font-bold text-slate-600 leading-4">
               Size Name
             </th>
 
-            <th class="px-6 py-6 text-left text-base font-bold text-slate-600 flex w-full justify-end">
+            <th class="px-6 py-[22px] text-left text-base font-bold text-slate-600 flex w-full justify-end">
               Actions
             </th>
           </tr>
