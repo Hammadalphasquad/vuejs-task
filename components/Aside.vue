@@ -15,7 +15,7 @@
       <i class="fa"></i>
     </div>
     <div v-if="isSettingsOpen" class="flip-in-hor-bottom">
-    <ul>
+    <ul>  
     
       <NuxtLink to="/categories" exact-active-class="bg-[#D4D8DF]" 
         class="hover:bg-[#D4D8DF] flex py-2 leading-6 text-sm font-medium pl-[67px] cursor-pointer"
